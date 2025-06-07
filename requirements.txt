@@ -1,0 +1,2 @@
+#nenhuma biblioteca externa é necessária
+# o código utiliza apenas bibliotecas padrão do Python
